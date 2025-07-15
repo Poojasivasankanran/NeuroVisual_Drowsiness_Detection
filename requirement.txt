@@ -1,0 +1,13 @@
+opencv-python
+dlib
+imutils
+numpy
+scipy
+pandas
+matplotlib
+streamlit
+pygame
+requests
+scikit-learn
+tensorflow
+joblib
